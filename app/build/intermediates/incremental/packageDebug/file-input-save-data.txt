@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Apr 15 22:00:27 CST 2017
+2.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\a.jpg
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=11
+0.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\b.jpg
+5.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\test.xml
+9.set=ANDROID_RESOURCE
+9.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+10.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\test2.xml
+3.set=ANDROID_RESOURCE
+1.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=H\:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

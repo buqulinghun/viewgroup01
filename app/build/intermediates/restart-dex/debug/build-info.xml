@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="48845493080387"
+    token="927719322861653852"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="H:\WorkSpace\AdroidStudioWorkSpace\viewgroup01\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="48667501159578"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="H:\WorkSpace\AdroidStudioWorkSpace\viewgroup01\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="48788376555671"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="H:\WorkSpace\AdroidStudioWorkSpace\viewgroup01\app\build\intermediates\builds\debug\48788376555671\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="48845493080387"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="H:\WorkSpace\AdroidStudioWorkSpace\viewgroup01\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

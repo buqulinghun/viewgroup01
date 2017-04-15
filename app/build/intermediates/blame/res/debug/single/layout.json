@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test2.xml",
+        "source": "H:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\src\\main\\res\\layout\\test2.xml"
+    },
+    {
+        "merged": "H:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "H:\\WorkSpace\\AdroidStudioWorkSpace\\viewgroup01\\app\\src\\main\\res\\layout\\test.xml"
+    }
+]
